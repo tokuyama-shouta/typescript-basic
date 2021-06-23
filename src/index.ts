@@ -7,3 +7,9 @@
 //基本の型定義
 import { primitiveSample } from './basic'
 primitiveSample()
+import { notExistSample } from './basic'
+notExistSample()
+import { anySample } from './basic'
+anySample()
+import { unknownSample } from './basic'
+unknownSample()
