@@ -15,6 +15,8 @@
 // unknownSample()
 import { logMessage } from './function/basic'
 logMessage('Hello TypeScript')
-import { isUserSignedIn } from './function/parameters'
+import { isUserSignedIn, isUserSignedIn2, productsPrice } from './function/parameters'
 isUserSignedIn('ABC', 'pkpk')
-//aaa
+isUserSignedIn2('ABC', 'pkpk')
+const sum = productsPrice(100, 200, 300)
+console.log('Function parameters sample', sum)
