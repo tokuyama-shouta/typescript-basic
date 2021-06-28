@@ -35,7 +35,7 @@ export default function objectSample() {
   pkpk.gender = 'male'
   pkpk.lastName = 'tobikagati'
   console.log('Object object sample 3:', pkpk)
-
+  //aaaa
   //インデックスシグネチャ
   const capitals: {
     [countryName: string]: string
