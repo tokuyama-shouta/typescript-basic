@@ -20,5 +20,6 @@
 // isUserSignedIn2('ABC', 'pkpk')
 // const sum = productsPrice(100, 200, 300)
 // console.log('Function parameters sample', sum)
-import objectSample from './object/object'
-import typeAliasSample from './object/alias'
+// import objectSample from './object/object'
+// import typeAliasSample from './object/alias'
+import arraySample from './array/array'
