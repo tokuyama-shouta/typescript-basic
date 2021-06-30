@@ -22,5 +22,9 @@
 // console.log('Function parameters sample', sum)
 // import objectSample from './object/object'
 // import typeAliasSample from './object/alias'
-import arraySample from './array/array'
-import tupleSample from './array/tuple'
+// import arraySample from './array/array'
+// import tupleSample from './array/tuple'
+import genericsBasicSample from './generics/basic'
+genericsBasicSample()
+import mapStrungsToNumbers from './generics/advanced'
+mapStrungsToNumbers()
