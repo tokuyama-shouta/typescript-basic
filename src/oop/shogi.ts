@@ -53,6 +53,6 @@ class Osho extends Piece {
 class Game {
   private pieces = Game.makePieces()
   private static makePieces() {
-    return [new Osho('first', 5, '1'), new Osho('second', 5, '9')]
+    return [new Osho('first', 5, '1'), new Osho('second', 7, '9')]
   }
 }
