@@ -24,7 +24,10 @@
 // import typeAliasSample from './object/alias'
 // import arraySample from './array/array'
 // import tupleSample from './array/tuple'
-import genericsBasicSample from './generics/basic'
-genericsBasicSample()
-import mapStrungsToNumbers from './generics/advanced'
-mapStrungsToNumbers()
+// import genericsBasicSample from './generics/basic'
+// genericsBasicSample()
+// import mapStrungsToNumbers from './generics/advanced'
+// import callbacksample from './asynchronous/callback'
+// import promiseSample from './asynchronous/promise'
+// import asyncAwaitSampleSample from './asynchronous/asyncAwait'
+// callbacksample()
